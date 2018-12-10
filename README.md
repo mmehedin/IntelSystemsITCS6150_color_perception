@@ -2,7 +2,7 @@
 
 Color perception from text creates a unique visual signature 
 
-![](results/Screen\ Shot\ 2018-12-09\ at\ 10.23.57\ PM.png)
+![](results/Screen%20Shot%202018-12-09%20at%2010.23.57%20PM.png)
 
 **Computer Vision** has a very interesting history. It's roots really go all th$
 
