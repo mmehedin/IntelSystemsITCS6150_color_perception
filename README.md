@@ -2,9 +2,9 @@
 
 Color perception from text creates a unique visual signature 
 
-| Index |   Song    | Image results |
+| Index |   Song    | Lyrics | Image results |
 | ------- | ------------- | --------------------------- |
-| 0       |  Hanson song “Smile” |![Smile](results/Screen%20Shot%202018-12-09%20at%2010.23.57%20PM.png)|
+| 0       |  Hanson song “Smile” | “Well this feeling that you're feeling \nIs some- thing I know you've felt before \nWhen I see you I want to hold you \n'Til the end of time and a little bit more \n \nAnd I'm not gonna let it go \nYou've got to let your feelings show \n \nSo smile, give me all your heart and we'll never be apart \nI'll never leave you lonely \nIf you'll just smile, tell me that you care \nAnd I'll always be there \nI'll never leave you hurting if you just smile \n \nWell this feeling I've been feeling \nWell I can feel it right now from my head to the floor...” |![Smile](results/Screen%20Shot%202018-12-09%20at%2010.23.57%20PM.png)|
 
 **Computer Vision** has a very interesting history. It's roots really go all th$
 
